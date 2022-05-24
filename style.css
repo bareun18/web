@@ -1,0 +1,227 @@
+  *{
+       font-family: 'NanumSquare';
+       list-style: none;
+       text-decoration: none;
+       border-collapse: collapse;
+       margin: 0px;
+       padding: 0px;
+       color: #000;
+
+
+  } 
+
+.logo_area{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.header{
+  display: flex;
+  width: cover;
+
+  background-color: white;
+  height: 100px;
+
+}
+
+.nav{
+  display: flex;
+}
+
+.nav>li{
+  margin-left: 120px;
+  margin-top: 50px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+
+.more_product{
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+.more_product>h1{
+  font-size: 50px;
+}
+.product{
+  margin-left: 190px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  display: flex;
+}
+.product>img{
+  margin-left: 150px;
+}
+.p{
+  display: flex;
+}
+.p1{
+margin: auto 70px auto 320px;
+}
+.p1>h3{
+text-align: center;
+color: green;
+margin-bottom: 20px;
+}
+.p1>p{
+margin-top: 30px;
+text-align: center;
+}
+.p2{
+margin: auto 70px auto 90px;
+}
+.p2>h3{
+text-align: center;
+color: green;
+margin-bottom: 20px;
+}
+.p2>p{
+margin-top: 30px;      text-align: center;
+}
+.p3{
+margin: auto 70px auto 70px;
+}
+.p3>h3{
+text-align: center;
+color: green;
+margin-bottom: 20px;
+}
+.p3>p{
+margin-top: 30px;
+text-align: center;
+}
+
+.ma_bg{
+height: 510px;
+}
+.market{
+text-align: center;
+margin-top: 100px;
+}  
+.market>h1{
+font-size: 50px;
+}    
+.logo{
+margin-left: 190px;
+margin-top: 120px;
+margin-bottom: 70px;
+display: flex;
+}
+.logo>img{
+margin-left: 150px;
+}
+.click{
+margin-left: 190px;
+margin-bottom: 130px;
+display: flex;
+}
+.click>a{
+margin-left: 120px;
+}
+
+footer{;
+  display: flex;
+  padding: 30px;
+}
+
+footer>div:first-child{
+  flex:3;
+  text-align: center;
+  color:white;
+}
+
+footer>div:last-child{
+  flex:9;
+  color:white;
+}
+
+.company>img{
+  display: block;
+}
+
+.help>img{
+  display: block;
+}
+.call>img{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.call{
+  text-align: center;
+  
+}
+
+.help>span{
+  text-align: center;
+}
+td{
+  padding-right: 520px;
+}
+.pr_img{
+  position: relative;
+  background-size: cover;
+  height: 400px;
+  background-image: url(image/상품이미지.jpg)
+}
+
+.pr_img>p{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+.food0{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  margin-left: 40px;
+  width: 95%;
+  border: 2px solid black;
+}
+
+.line{height: 80px; width:0px;}
+
+.food0>a{
+  display: block;
+  margin: auto;
+}
+
+
+.ramen{
+  display: flex;
+}
+.ramen>img{
+   display: block;
+   margin:auto ;
+}
+
+
+
+.ra1{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.ra1>div{
+  display: block;
+  margin:auto ;
+}
+
+.j{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.table{
+  display: flex;
+
+}
+
+.t1{
+  width: 85%;
+  margin-left: 50px;
+  margin-top: 50px;
+}
